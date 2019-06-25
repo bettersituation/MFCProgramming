@@ -3,6 +3,9 @@
 
 **/*.vcxproj
 **/*.vcxproj.filters
+**/*.sln
+**/.*
+!.gitignore
 
 # User-specific files
 *.suo
