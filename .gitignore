@@ -5,6 +5,8 @@
 **/*.vcxproj.filters
 **/*.sln
 **/.*
+**/*.ico
+**/*.bmp
 !.gitignore
 
 # User-specific files
